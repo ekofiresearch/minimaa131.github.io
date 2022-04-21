@@ -1,0 +1,1257 @@
+{
+    "manifest_version": "1.0.20",
+    "title": "Vanguard - Templatekit for Cyber Security",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/demo.moxcreative.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/vanguard\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Our Client",
+            "screenshot": "screenshots\/our-client.jpg",
+            "source": "templates\/our-client.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/vanguard\/template-kit\/our-client\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Service",
+            "screenshot": "screenshots\/single-service.jpg",
+            "source": "templates\/single-service.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/vanguard\/template-kit\/single-service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Service",
+            "screenshot": "screenshots\/service.jpg",
+            "source": "templates\/service.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/vanguard\/template-kit\/service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/vanguard\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/vanguard\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing Plan",
+            "screenshot": "screenshots\/pricing-plan.jpg",
+            "source": "templates\/pricing-plan.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/vanguard\/template-kit\/pricing-plan\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Help Center",
+            "screenshot": "screenshots\/help-center.jpg",
+            "source": "templates\/help-center.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/vanguard\/template-kit\/help-center\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/vanguard\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Vanguard V1 - Error 404",
+            "screenshot": "screenshots\/vanguard-v1-error-404.jpg",
+            "source": "templates\/vanguard-v1-error-404.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/vanguard\/?elementor_library=vanguard-v1-error-404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Vanguard V1 - Archive Blog",
+            "screenshot": "screenshots\/vanguard-v1-archive-blog.jpg",
+            "source": "templates\/vanguard-v1-archive-blog.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/vanguard\/?elementor_library=vanguard-v1-archive-blog",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Vanguard V1 - Single Post",
+            "screenshot": "screenshots\/vanguard-v1-single-post.jpg",
+            "source": "templates\/vanguard-v1-single-post.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/vanguard\/?elementor_library=vanguard-v1-single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Vanguard V1 - Menu Slide",
+            "screenshot": "screenshots\/vanguard-v1-menu-slide.png",
+            "source": "templates\/vanguard-v1-menu-slide.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/vanguard\/?elementor_library=vanguard-v1-menu-slide",
+            "type": "popup",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-popup",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "popup",
+                "additional_template_information": [
+                    "This is a \"Popup\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Vanguard V1 - Footer",
+            "screenshot": "screenshots\/vanguard-v1-footer.png",
+            "source": "templates\/vanguard-v1-footer.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/vanguard\/?elementor_library=vanguard-v1-footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Vanguard V1 - Header",
+            "screenshot": "screenshots\/vanguard-v1-header.png",
+            "source": "templates\/vanguard-v1-header.json",
+            "preview_url": "https:\/\/demo.moxcreative.com\/vanguard\/?elementor_library=vanguard-v1-header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Prime Slider",
+            "version": "1.14.3",
+            "file": "bdthemes-prime-slider-lite\/bdthemes-prime-slider.php",
+            "author": "BdThemes"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.3.6",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Premium Addons for Elementor",
+            "version": "4.5.4",
+            "file": "premium-addons-for-elementor\/premium-addons-for-elementor.php",
+            "author": "Leap13"
+        },
+        {
+            "name": "Essential Addons for Elementor",
+            "version": "4.9.1",
+            "file": "essential-addons-for-elementor-lite\/essential_adons_elementor.php",
+            "author": "WPDeveloper"
+        },
+        {
+            "name": "Element Pack Lite - Addon for Elementor",
+            "version": "3.1.1",
+            "file": "bdthemes-element-pack-lite\/bdthemes-element-pack-lite.php",
+            "author": "BdThemes"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.2.2",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "bg_main.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/vanguard\/wp-content\/uploads\/sites\/65\/2021\/09\/bg_main-800x450.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/our-client.json",
+                    "name": "Our Client"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/help-center.json",
+                    "name": "Help Center"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/vanguard-v1-error-404.json",
+                    "name": "Vanguard V1 - Error 404"
+                },
+                {
+                    "source": "templates\/vanguard-v1-archive-blog.json",
+                    "name": "Vanguard V1 - Archive Blog"
+                },
+                {
+                    "source": "templates\/vanguard-v1-footer.json",
+                    "name": "Vanguard V1 - Footer"
+                }
+            ],
+            "filesize": 19604,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/cyberpunk-backgrounds-7JLKMU6"
+        },
+        {
+            "filename": "Robot_head.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/vanguard\/wp-content\/uploads\/sites\/65\/2021\/09\/Robot_head.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 214732,
+            "dimensions": [
+                550,
+                550
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PBVGFYR"
+        },
+        {
+            "filename": "global_map-1024x575-1.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/vanguard\/wp-content\/uploads\/sites\/65\/2021\/09\/global_map-1024x575-1-800x449.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 213186,
+            "dimensions": [
+                1024,
+                575
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/square-dotted-world-map-and-earth-globes-Q676QDA"
+        },
+        {
+            "filename": "utosia-2.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/vanguard\/wp-content\/uploads\/sites\/65\/2021\/09\/utosia-2-800x205.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 17452,
+            "dimensions": [
+                2340,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "ideaa-1.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/vanguard\/wp-content\/uploads\/sites\/65\/2021\/09\/ideaa-1-800x271.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/our-client.json",
+                    "name": "Our Client"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 31228,
+            "dimensions": [
+                1770,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "velocity-9.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/vanguard\/wp-content\/uploads\/sites\/65\/2021\/09\/velocity-9-800x206.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 38343,
+            "dimensions": [
+                2333,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "earth-2.0.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/vanguard\/wp-content\/uploads\/sites\/65\/2021\/09\/earth-2.0-800x190.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/our-client.json",
+                    "name": "Our Client"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 54681,
+            "dimensions": [
+                2520,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "asgardia-1.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/vanguard\/wp-content\/uploads\/sites\/65\/2021\/09\/asgardia-1-800x188.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/our-client.json",
+                    "name": "Our Client"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 22134,
+            "dimensions": [
+                2558,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "goldline.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/vanguard\/wp-content\/uploads\/sites\/65\/2021\/09\/goldline-800x186.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 18770,
+            "dimensions": [
+                2580,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "aven.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/vanguard\/wp-content\/uploads\/sites\/65\/2021\/09\/aven-800x239.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 30416,
+            "dimensions": [
+                2010,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "muzica.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/vanguard\/wp-content\/uploads\/sites\/65\/2021\/09\/muzica-800x200.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/our-client.json",
+                    "name": "Our Client"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 26718,
+            "dimensions": [
+                2400,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "solaytic.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/vanguard\/wp-content\/uploads\/sites\/65\/2021\/09\/solaytic-800x257.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 26622,
+            "dimensions": [
+                1870,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "particle_2.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/vanguard\/wp-content\/uploads\/sites\/65\/2021\/09\/particle_2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/help-center.json",
+                    "name": "Help Center"
+                },
+                {
+                    "source": "templates\/vanguard-v1-footer.json",
+                    "name": "Vanguard V1 - Footer"
+                }
+            ],
+            "filesize": 317,
+            "dimensions": [
+                63,
+                129
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "exploring-virtual-reality-e1631817161428.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/vanguard\/wp-content\/uploads\/sites\/65\/2021\/09\/exploring-virtual-reality-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 53311,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MX7WMGM"
+        },
+        {
+            "filename": "rear-view-of-hacker-in-front-of-computer-with-multiple-screens-e1631817183956.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/vanguard\/wp-content\/uploads\/sites\/65\/2021\/09\/rear-view-of-hacker-in-front-of-computer-with-multiple-screens-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 101797,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BPEKPUX"
+        },
+        {
+            "filename": "female-teenage-hacker-sitting-in-front-of-computer-screens-bypassing-cyber-security-e1631817210943.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/vanguard\/wp-content\/uploads\/sites\/65\/2021\/09\/female-teenage-hacker-sitting-in-front-of-computer-screens-bypassing-cyber-security-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                }
+            ],
+            "filesize": 90049,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-78D9AFJ"
+        },
+        {
+            "filename": "blade-servers-background-e1631817229626.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/vanguard\/wp-content\/uploads\/sites\/65\/2021\/09\/blade-servers-background-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                }
+            ],
+            "filesize": 86125,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-WH4994T"
+        },
+        {
+            "filename": "lifestyle-beautiful-woman-in-the-office-e1631817250441.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/vanguard\/wp-content\/uploads\/sites\/65\/2021\/09\/lifestyle-beautiful-woman-in-the-office-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/our-client.json",
+                    "name": "Our Client"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 19104,
+            "dimensions": [
+                350,
+                350
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GEFJAHX"
+        },
+        {
+            "filename": "code-lab.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/vanguard\/wp-content\/uploads\/sites\/65\/2021\/09\/code-lab-800x211.png",
+            "templates": [
+                {
+                    "source": "templates\/our-client.json",
+                    "name": "Our Client"
+                }
+            ],
+            "filesize": 18477,
+            "dimensions": [
+                2280,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "fox-hub.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/vanguard\/wp-content\/uploads\/sites\/65\/2021\/09\/fox-hub-800x187.png",
+            "templates": [
+                {
+                    "source": "templates\/our-client.json",
+                    "name": "Our Client"
+                }
+            ],
+            "filesize": 15676,
+            "dimensions": [
+                2566,
+                600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/uilogos.co\/"
+        },
+        {
+            "filename": "cropped-view-of-african-american-businessman-using-laptop-and-smartphone-in-car-with-cyber-security-e1631817271251.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/vanguard\/wp-content\/uploads\/sites\/65\/2021\/09\/cropped-view-of-african-american-businessman-using-laptop-and-smartphone-in-car-with-cyber-security-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-client.json",
+                    "name": "Our Client"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 85776,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-W7ZNTM5"
+        },
+        {
+            "filename": "it-engineer-in-server-room-e1631817294431.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/vanguard\/wp-content\/uploads\/sites\/65\/2021\/09\/it-engineer-in-server-room-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                }
+            ],
+            "filesize": 100381,
+            "dimensions": [
+                1080,
+                720
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3BAF7KG"
+        },
+        {
+            "filename": "Artboard-17.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/vanguard\/wp-content\/uploads\/sites\/65\/2021\/09\/Artboard-17.png",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                }
+            ],
+            "filesize": 1700,
+            "dimensions": [
+                128,
+                128
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/40-cyber-security-icons-set-line-7RLZAEY"
+        },
+        {
+            "filename": "Artboard-19.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/vanguard\/wp-content\/uploads\/sites\/65\/2021\/09\/Artboard-19.png",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                }
+            ],
+            "filesize": 2768,
+            "dimensions": [
+                128,
+                128
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/40-cyber-security-icons-set-line-7RLZAEY"
+        },
+        {
+            "filename": "Artboard-20.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/vanguard\/wp-content\/uploads\/sites\/65\/2021\/09\/Artboard-20.png",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                }
+            ],
+            "filesize": 2562,
+            "dimensions": [
+                128,
+                128
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/40-cyber-security-icons-set-line-7RLZAEY"
+        },
+        {
+            "filename": "Artboard-15.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/vanguard\/wp-content\/uploads\/sites\/65\/2021\/09\/Artboard-15.png",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                }
+            ],
+            "filesize": 1403,
+            "dimensions": [
+                128,
+                128
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/40-cyber-security-icons-set-line-7RLZAEY"
+        },
+        {
+            "filename": "Artboard-36.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/vanguard\/wp-content\/uploads\/sites\/65\/2021\/09\/Artboard-36.png",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                }
+            ],
+            "filesize": 1516,
+            "dimensions": [
+                128,
+                128
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/40-cyber-security-icons-set-line-7RLZAEY"
+        },
+        {
+            "filename": "Artboard-37.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/vanguard\/wp-content\/uploads\/sites\/65\/2021\/09\/Artboard-37.png",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                }
+            ],
+            "filesize": 2540,
+            "dimensions": [
+                128,
+                128
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/40-cyber-security-icons-set-line-7RLZAEY"
+        },
+        {
+            "filename": "technology-meeting-at-cyber-space-table-e1631817317720.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/vanguard\/wp-content\/uploads\/sites\/65\/2021\/09\/technology-meeting-at-cyber-space-table-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                }
+            ],
+            "filesize": 100263,
+            "dimensions": [
+                1080,
+                721
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P3W4C6A"
+        },
+        {
+            "filename": "particle_1.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/vanguard\/wp-content\/uploads\/sites\/65\/2021\/09\/particle_1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/pricing-plan.json",
+                    "name": "Pricing Plan"
+                },
+                {
+                    "source": "templates\/vanguard-v1-footer.json",
+                    "name": "Vanguard V1 - Footer"
+                }
+            ],
+            "filesize": 584,
+            "dimensions": [
+                165,
+                165
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "img_9.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/vanguard\/wp-content\/uploads\/sites\/65\/2021\/09\/img_9.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 60648,
+            "dimensions": [
+                500,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-casual-man-84VL3GJ"
+        },
+        {
+            "filename": "img_1.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/vanguard\/wp-content\/uploads\/sites\/65\/2021\/09\/img_1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 60175,
+            "dimensions": [
+                500,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-young-african-woman-standing-BLXR77C"
+        },
+        {
+            "filename": "img_6.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/vanguard\/wp-content\/uploads\/sites\/65\/2021\/09\/img_6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 40315,
+            "dimensions": [
+                500,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/full-length-portrait-of-a-smiling-mature-man-P8SEU5V"
+        },
+        {
+            "filename": "img_5.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/vanguard\/wp-content\/uploads\/sites\/65\/2021\/09\/img_5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 40264,
+            "dimensions": [
+                500,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-african-american-man-holding-digital-tablet--YZ8RLHZ"
+        },
+        {
+            "filename": "img_7.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/vanguard\/wp-content\/uploads\/sites\/65\/2021\/09\/img_7.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 41390,
+            "dimensions": [
+                500,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-happy-handsome-hispanic-man-wearing-ho-CSTKXFR"
+        },
+        {
+            "filename": "img_4.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/vanguard\/wp-content\/uploads\/sites\/65\/2021\/09\/img_4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 70504,
+            "dimensions": [
+                500,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-fit-smiling-man-with-folded-arms-EB7MJYA"
+        },
+        {
+            "filename": "img_2.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/vanguard\/wp-content\/uploads\/sites\/65\/2021\/09\/img_2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 41860,
+            "dimensions": [
+                500,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/the-woman-wore-a-white-shirt-and-raised-her-right--4WPQHL8"
+        },
+        {
+            "filename": "img_3.jpg",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/vanguard\/wp-content\/uploads\/sites\/65\/2021\/09\/img_3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 40105,
+            "dimensions": [
+                500,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-happy-young-beautiful-woman-smiling-an-Y96LVYK"
+        },
+        {
+            "filename": "logo_vanguard.png",
+            "thumbnail_url": "https:\/\/demo.moxcreative.com\/vanguard\/wp-content\/uploads\/sites\/65\/2021\/09\/logo_vanguard.png",
+            "templates": [
+                {
+                    "source": "templates\/vanguard-v1-menu-slide.json",
+                    "name": "Vanguard V1 - Menu Slide"
+                },
+                {
+                    "source": "templates\/vanguard-v1-footer.json",
+                    "name": "Vanguard V1 - Footer"
+                },
+                {
+                    "source": "templates\/vanguard-v1-header.json",
+                    "name": "Vanguard V1 - Header"
+                }
+            ],
+            "filesize": 22287,
+            "dimensions": [
+                761,
+                227
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}
